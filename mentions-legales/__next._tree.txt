@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0u3eonucd41u7.css","style"]
+:HL["/_next/static/chunks/0oi34z_scdu2a.css","style"]
 :HL["/favicon-192x192.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mentions-legales","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"0tdp2w9RQ_IxNb36y_HSO"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mentions-legales","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"sqMBi7ZYlf7Bv14ZJgHNl"}
