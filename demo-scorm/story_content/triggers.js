@@ -2,349 +2,349 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5lEH80ZjmR6":
+      case "653Wo7lOlLO":
         Script1();
         break;
-      case "6K5C0TQbt5S":
+      case "6Bx7VQEfilY":
         Script2();
         break;
-      case "60mkBRR8qKl":
+      case "5byrKnVvNED":
         Script3();
         break;
-      case "6fzCWegeE8e":
+      case "65rI9NL2WAT":
         Script4();
         break;
-      case "5ehwsCKVvVi":
+      case "6mWAKHTCo0B":
         Script5();
         break;
-      case "6Du2LnrsEXI":
+      case "6fQhHgOXJMG":
         Script6();
         break;
-      case "5chKjIlquVc":
+      case "6SrvrUxvo8y":
         Script7();
         break;
-      case "5UtNH6bI4XL":
+      case "5x0rCsnXNYs":
         Script8();
         break;
-      case "6jWyQFkCRC2":
+      case "5tN0FT4k1k8":
         Script9();
         break;
-      case "5h1bU0rndTr":
+      case "5iHDFwtlT9A":
         Script10();
         break;
-      case "5rdOVb7p7vm":
+      case "63C88cs8r7P":
         Script11();
         break;
-      case "6OsNipKnTZQ":
+      case "6gC5U38RlRH":
         Script12();
         break;
-      case "6ZSBygqRzJs":
+      case "5k6AEauvR0C":
         Script13();
         break;
-      case "6gchfDMUdbX":
+      case "69cKEnjxby7":
         Script14();
         break;
-      case "68djVOdwTm4":
+      case "6FPB2Lx7XDb":
         Script15();
         break;
-      case "6CgJSjkLFY1":
+      case "6Gj8m1I8wY7":
         Script16();
         break;
-      case "5cgsivj58ex":
+      case "6EdvOzlCba5":
         Script17();
         break;
-      case "5lYKgzdBhaV":
+      case "5cfrfJBejCR":
         Script18();
         break;
-      case "6O5emj8iHWi":
+      case "6IzzogYe5zG":
         Script19();
         break;
-      case "6PgG02qZIeu":
+      case "6buFQzyuJof":
         Script20();
         break;
-      case "5Z9RBybSY6v":
+      case "6egmIZREhWN":
         Script21();
         break;
-      case "645hvfGiD80":
+      case "6UjUQJjME60":
         Script22();
         break;
-      case "6F0LPAcqITA":
+      case "6E1Fe3BTsYr":
         Script23();
         break;
-      case "61GCKVng8N2":
+      case "6QJAIBvBir1":
         Script24();
         break;
-      case "5q022i7ij5M":
+      case "6lreiDgmOgW":
         Script25();
         break;
-      case "618EVRltDqW":
+      case "6FUonFIGN24":
         Script26();
         break;
-      case "6SGBJwe2KZe":
+      case "6chuHvJL4fr":
         Script27();
         break;
-      case "6Dl7HEr3BCb":
+      case "5xfC4PchzNL":
         Script28();
         break;
-      case "5ZkU58mWEDQ":
+      case "6iZwFweKOd2":
         Script29();
         break;
-      case "6kZtcRFLj7v":
+      case "6pWrYgPdMo1":
         Script30();
         break;
-      case "5oV11GvASaN":
+      case "69ObDNCKmIM":
         Script31();
         break;
-      case "5lDWjX7gOSK":
+      case "5tqw15NGwZW":
         Script32();
         break;
-      case "62VhR4UmKkW":
+      case "67whdKUaheJ":
         Script33();
         break;
-      case "6PXYGOcPmzE":
+      case "5lq18u9FOhC":
         Script34();
         break;
-      case "5dnIcC8UyzW":
+      case "6X9R79NFpEX":
         Script35();
         break;
-      case "5gHFVFasedp":
+      case "5q4IJ0mo9kC":
         Script36();
         break;
-      case "5fwY7c18kQd":
+      case "6E7tghndmhF":
         Script37();
         break;
-      case "6CUpllareqV":
+      case "5q3J18a34Ts":
         Script38();
         break;
-      case "6Xbue79x5nJ":
+      case "5mLSjj7APL8":
         Script39();
         break;
-      case "6SISnAhKUo3":
+      case "6l6iwnzYtKg":
         Script40();
         break;
-      case "68xGfYo9RiG":
+      case "6Pcp64qRIrH":
         Script41();
         break;
-      case "5gGTrAfZ4sQ":
+      case "6XZdYvmsVUt":
         Script42();
         break;
-      case "5o1Tx5eS6sU":
+      case "6N9LryHEroG":
         Script43();
         break;
-      case "5wJretV9MHr":
+      case "5qKgsmLP1HY":
         Script44();
         break;
-      case "5o2yTIn5ige":
+      case "5eJptMAeYSS":
         Script45();
         break;
-      case "6UMQZDGdf2u":
+      case "6PxeSP2XniJ":
         Script46();
         break;
-      case "5YppuNDmTkz":
+      case "6BYP48vjSAi":
         Script47();
         break;
-      case "5ZWtpb2unep":
+      case "6MhT2bZQI6t":
         Script48();
         break;
-      case "5soqqOx5Tmj":
+      case "681Bd3MVcSh":
         Script49();
         break;
-      case "6XsteV5KZH6":
+      case "6MkLh1rE26k":
         Script50();
         break;
-      case "5yc7xomi9FK":
+      case "6Pv0PrO9jX9":
         Script51();
         break;
-      case "6cq7Gfo80gt":
+      case "6o89E4V1ADV":
         Script52();
         break;
-      case "6qhdHl7a8N2":
+      case "6JPG9dluxVq":
         Script53();
         break;
-      case "6BqIMPirvox":
+      case "6IBQaUHNLqA":
         Script54();
         break;
-      case "6iGhnLNeOBy":
+      case "5YJahS0yXQO":
         Script55();
         break;
-      case "6HBcFXWliFk":
+      case "6X5QoejDZVV":
         Script56();
         break;
-      case "6HLTNsRrAUr":
+      case "6cFtGrvTGwh":
         Script57();
         break;
-      case "5rfP0t33ZYo":
+      case "6U0v2DI3I8L":
         Script58();
         break;
-      case "5hLCvCp4S9g":
+      case "687ZmNUbFpw":
         Script59();
         break;
-      case "6JSbNn6aide":
+      case "61mFmbWORd9":
         Script60();
         break;
-      case "6SJJ7m58kvD":
+      case "5uoB25H2bxf":
         Script61();
         break;
-      case "5ZJfWhs5UoB":
+      case "5hxpvozlaYd":
         Script62();
         break;
-      case "6GAYzTZK7bQ":
+      case "6fieBqRKPwL":
         Script63();
         break;
-      case "5hThWmNOV2n":
+      case "6evMotKtF9x":
         Script64();
         break;
-      case "5WgwV9SJsx7":
+      case "5iLxzkeyZf7":
         Script65();
         break;
-      case "6k980ycVnHI":
+      case "6A36r9z2LFi":
         Script66();
         break;
-      case "5VkQQXmQDe1":
+      case "6Pdw6BbUFSS":
         Script67();
         break;
-      case "6Te4XQ3JRVL":
+      case "6OvJDcZ3EPK":
         Script68();
         break;
-      case "5kWXk5hQ9on":
+      case "6iwQtZ6bLCO":
         Script69();
         break;
-      case "5h0R6pNYa3N":
+      case "6lYpQ74PwiF":
         Script70();
         break;
-      case "6GaBrtMrS07":
+      case "6K4LCMQEQzL":
         Script71();
         break;
-      case "6kJy1M5595V":
+      case "6AT2OozqhVM":
         Script72();
         break;
-      case "67gmGB5TZpa":
+      case "6iP8vR13pjf":
         Script73();
         break;
-      case "6Nm7wV1l182":
+      case "6mHIKjeI6OL":
         Script74();
         break;
-      case "6IskKkLuvIR":
+      case "5VECItCFVlC":
         Script75();
         break;
-      case "6hfpDbjan3O":
+      case "5V4GBHzuoLf":
         Script76();
         break;
-      case "65nBlopfkue":
+      case "6KafvOnYYY8":
         Script77();
         break;
-      case "5j3vAVEMx1Y":
+      case "5sQWkNllyxL":
         Script78();
         break;
-      case "6SdBhxBcsRE":
+      case "64yfY1g03Q4":
         Script79();
         break;
-      case "6osTPkqXCQF":
+      case "65HfBCQQRTA":
         Script80();
         break;
-      case "6fbPYztGqap":
+      case "64MmfpmNarH":
         Script81();
         break;
-      case "5wZ8xzXqprx":
+      case "5bIrzQRmg4D":
         Script82();
         break;
-      case "65a4phoag7p":
+      case "6B29g1wIxUJ":
         Script83();
         break;
-      case "6Dwj5o1iTaz":
+      case "5hauTtCuooA":
         Script84();
         break;
-      case "6NnWdLkHHLq":
+      case "6GiyfXzzuYB":
         Script85();
         break;
-      case "6cjgTzG74iu":
+      case "5uazXIgBwMs":
         Script86();
         break;
-      case "6Vcvy4iZDY7":
+      case "5znZOwHupkQ":
         Script87();
         break;
-      case "6ed28vVGjyl":
+      case "6W32iOtv916":
         Script88();
         break;
-      case "6P7npkIb0Ca":
+      case "6VR5F9YUfPh":
         Script89();
         break;
-      case "6htvxE7CSzL":
+      case "6XAEPviIVH8":
         Script90();
         break;
-      case "5nkMFbg9knb":
+      case "6f565kOpcdu":
         Script91();
         break;
-      case "6m5Hv5BmDCI":
+      case "6YXJBWMmR9S":
         Script92();
         break;
-      case "5zTrnJpzibK":
+      case "5zSITlU4IRF":
         Script93();
         break;
-      case "5sYByK1B9WH":
+      case "6UXppzjVcsc":
         Script94();
         break;
-      case "5rGr327tWgC":
+      case "6Mafw8uirFF":
         Script95();
         break;
-      case "6FxXSh0L80R":
+      case "5eoq12UOjtD":
         Script96();
         break;
-      case "5eR5VE90pcx":
+      case "6DsXW1PKdZY":
         Script97();
         break;
-      case "6WfihYGdnK0":
+      case "6DMiNc6sKyU":
         Script98();
         break;
-      case "5Zts68hae6L":
+      case "5dFAlWyIb55":
         Script99();
         break;
-      case "5VijlOl1GiO":
+      case "66Dir3gimwi":
         Script100();
         break;
-      case "5eL09iKcu1g":
+      case "5ge1TmWJy1z":
         Script101();
         break;
-      case "5pzEVLntJJE":
+      case "6aNvifm1yMs":
         Script102();
         break;
-      case "64Rh7FZMTHb":
+      case "5sq4JWgavZ9":
         Script103();
         break;
-      case "5eUCkzpW7rM":
+      case "5bmtWWCsD3W":
         Script104();
         break;
-      case "6UkBV8Odc8c":
+      case "60oVUSSvHdY":
         Script105();
         break;
-      case "6aFNI50h6yM":
+      case "6RlGubJAwYg":
         Script106();
         break;
-      case "5YFA6i9CgGq":
+      case "6JxqsL6wwYN":
         Script107();
         break;
-      case "6lgrVvDk7o5":
+      case "6jPcc6NCzCp":
         Script108();
         break;
-      case "6AcQCCiFNB3":
+      case "65Ai5qx7Oae":
         Script109();
         break;
-      case "6bFvnciJMf8":
+      case "60xmOe9gKGT":
         Script110();
         break;
-      case "66GnaOLMIlJ":
+      case "5W470mhYCXm":
         Script111();
         break;
-      case "5WyynWHLX0B":
+      case "6amoB8jBNas":
         Script112();
         break;
-      case "6T8qfa4ufiR":
+      case "6LwwLB0hoEY":
         Script113();
         break;
-      case "65DpAfsQ21b":
+      case "5nt7Nu0aK5t":
         Script114();
         break;
-      case "6PAIV8LjJkm":
+      case "5nuCnqKkqDO":
         Script115();
         break;
   }
@@ -371,10 +371,10 @@ var keyup = player.keyup;
 window.Script1 = function()
 {
   const target = object('5vwtrIVRGu8');
-const duration = 7000;
+const duration = 4750;
 const easing = 'ease-out';
 const id = '5fODFoiLPDE';
-const pulseAmount = 0.07;
+const pulseAmount = 0.03;
 player.addForTriggers(
 id,
 target.animate(
@@ -391,14 +391,13 @@ target.animate(
 
 window.Script2 = function()
 {
-  player.once(() => {
-const target = object('5vwtrIVRGu8');
-const duration = 7000;
+  const target = object('5vwtrIVRGu8');
+const duration = 4750;
 const easing = 'ease-out';
 const id = '5fODFoiLPDE';
-const pulseAmount = 0.07;
-const delay = 1750;
-addToTimeline(
+const pulseAmount = 0.03;
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -406,10 +405,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script3 = function()
@@ -435,14 +433,13 @@ target.animate(
 
 window.Script4 = function()
 {
-  player.once(() => {
-const target = object('5XAmwfq1veZ');
+  const target = object('5XAmwfq1veZ');
 const duration = 7000;
 const easing = 'ease-out';
 const id = '6DPr7DDsKst';
 const pulseAmount = 0.07;
-const delay = 2250;
-addToTimeline(
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -450,10 +447,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script5 = function()
@@ -567,14 +563,13 @@ target.animate(
 
 window.Script10 = function()
 {
-  player.once(() => {
-const target = object('5mohT7bPa5S');
+  const target = object('5mohT7bPa5S');
 const duration = 7000;
 const easing = 'ease-out';
 const id = '5ZUFp74mCPv';
 const pulseAmount = 0.07;
-const delay = 3250;
-addToTimeline(
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -582,10 +577,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script11 = function()
@@ -611,14 +605,13 @@ target.animate(
 
 window.Script12 = function()
 {
-  player.once(() => {
-const target = object('5xMP67xWM5r');
+  const target = object('5xMP67xWM5r');
 const duration = 7000;
 const easing = 'ease-out';
 const id = '6OrFZkM1ABM';
 const pulseAmount = 0.07;
-const delay = 1250;
-addToTimeline(
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -626,10 +619,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script13 = function()
@@ -655,14 +647,13 @@ target.animate(
 
 window.Script14 = function()
 {
-  player.once(() => {
-const target = object('6Wp4YobypGs');
+  const target = object('6Wp4YobypGs');
 const duration = 7000;
 const easing = 'ease-out';
 const id = '6kSF1B4AhVE';
 const pulseAmount = 0.07;
-const delay = 5625;
-addToTimeline(
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -670,10 +661,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script15 = function()
@@ -699,14 +689,13 @@ target.animate(
 
 window.Script16 = function()
 {
-  player.once(() => {
-const target = object('6asJy00DRBX');
+  const target = object('6asJy00DRBX');
 const duration = 7000;
 const easing = 'ease-out';
 const id = '65B5mXgR3Dy';
 const pulseAmount = 0.07;
-const delay = 5625;
-addToTimeline(
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -714,10 +703,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script17 = function()
@@ -743,14 +731,13 @@ target.animate(
 
 window.Script18 = function()
 {
-  player.once(() => {
-const target = object('5uUpnelwERi');
+  const target = object('5uUpnelwERi');
 const duration = 7000;
 const easing = 'ease-out';
 const id = '6PD1YNXYzxs';
 const pulseAmount = 0.07;
-const delay = 5625;
-addToTimeline(
+player.addForTriggers(
+id,
 target.animate(
 [ {scale: '1' }, 
 {scale: `${1 + pulseAmount}` }, 
@@ -758,10 +745,9 @@ target.animate(
 {scale: `${1 + pulseAmount}` }, 
 {scale: '1' } ]
 ,
-  { fill: 'forwards', delay, duration, easing }
-), id
+  { fill: 'forwards', duration, easing }
+)
 );
-});
 }
 
 window.Script19 = function()
